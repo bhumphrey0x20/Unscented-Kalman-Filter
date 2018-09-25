@@ -61,5 +61,4 @@ The project ran the Unscented Kalman Filter using both Lidar and Radar data, wit
 
 A plot of the NIS values is shown below.
 
- 
-
+<img src="https://github.com/bhumphrey0x20/Advanced-Lane-Finding-Proj-3/blob/master/output_images/nis.png" height="120" width="240" /> 
